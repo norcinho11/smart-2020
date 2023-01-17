@@ -1,0 +1,24 @@
+{
+  "translation": {
+    "Home": "Domů",
+    "Notifications": "Upozornění",
+    "Calendar":"Kalendář",
+    "Notes":"Poznámky",
+    "Settings":"Nastavení",
+    "Navigation":"Navigace",
+    "Sign Out":"Odhlásit se",
+    "Password":"Heslo",
+    "Mail":"E-mail",
+    "Maps":"Mapy",
+    "Daily overview":"Denní přehled",
+    "Sign In":"Prihlásiť se",
+      "Sign Up":"Registrace",
+      "Log in to continue: ":"Pro vstup sa musíte prihlásiť:",
+      "Choose app language:":"Zvol jazyk aplikace:",
+      "Save":"Uložiť",
+      "Close":"Zatvoriť",
+      "New":"Nový",
+      "Add":"Pridať"
+
+}
+}

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "286143843986",
+    "project_id": "planner-518f1",
+    "storage_bucket": "planner-518f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286143843986:android:758cab654bf987952ba04b",
+        "android_client_info": {
+          "package_name": "com.planner.two"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286143843986-7kga545qp1i0ucen6env5gdrokvrv1m3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.planner.two",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "286143843986-kaqboe54klpah7a4d3lvq9gs6dkp0n58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfqSdQtoCF6nWpdRm0oRVz0mCWVybg4_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286143843986-kaqboe54klpah7a4d3lvq9gs6dkp0n58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

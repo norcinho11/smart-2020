@@ -1,0 +1,25 @@
+{
+    "translation": {
+      "Home": "Haza",
+      "Notifications": "Értesítéseket",
+      "Calendar":"Naptár",
+      "Notes":"Jegyzetek",
+      "Settings":"Beálítások",
+      "Navigation":"Navigácio",
+      "Sign Out":"Kijelentkezés",
+      "Password":"Jelszó",
+      "Mail":"E-mail",
+      "Maps":"Map",
+      "Daily overview":"Napi teendok",
+      "Sign In":"Jelentkezés",
+      "Sign Up":"Regisztrálás",
+      "Log in to continue: ":"A folytatáshoz jelentkezzen be:",
+      "Choose app language:":"Válaszd ki a nyelvet:",
+      "Save":"Mentés",
+      "Close":"Bezárni",
+      "New":"Új",
+      "Add":"Új"
+
+
+    }
+  }

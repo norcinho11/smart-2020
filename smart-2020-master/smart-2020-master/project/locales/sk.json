@@ -1,0 +1,34 @@
+{
+    "translation": {
+      "Home": "Domov",
+      "Notifications": "Upozornenia",
+      "Calendar":"Kalendár",
+      "Notes":"Poznámky",
+      "Settings":"Nastavenia",
+      "Navigation":"Mapy",
+      "Sign Out":"Odhlásiť sa",
+      "Password":"Heslo",
+      "Mail":"E-mail",
+      "Maps":"Mapy",
+      "Daily overview":"Denný prehľad",
+      "Sign In":"Prihlásiť sa",
+      "Sign Up":"Registrácia",
+      "Log in to continue: ":"Pre vstup sa musíte prihlásiť:",
+      "Choose app language:":"Zvoľ jazyk aplikácie:",
+      "Save":"Uložiť",
+      "Close":"Zatvoriť",
+      "New":"Nový",
+      "Add":"Pridať",
+      "Name":"Názov",
+      "Subtitle":"Podnázov",
+      "Edit location":"Nastav polohu",
+      "Edit time":"Nastav čas",
+      "Cancel":"Späť",
+      "Edit":"Nastav",
+      "Open in map":"Ukáž na mape",
+      "Location":"Poloha",
+      "Delete":"Zmazať",
+      "Confirm":"Potvrď"
+      
+    }
+  }
