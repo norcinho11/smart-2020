@@ -18,6 +18,7 @@ export default function App() {
       backgroundColor: "#FBFFFE",
       alignItems: "center",
       justifyContent: "center",
+      
     },
     image: {
       flex: 1,
